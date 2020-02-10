@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Google.Authenticator.dll">
+      <publishTime>09/23/2015 11:38:40</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Client.dll">
+      <publishTime>09/30/2019 10:01:02</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>09/30/2019 10:01:04</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.dll">
+      <publishTime>09/30/2019 10:01:08</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>09/30/2019 10:01:00</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.dll">
+      <publishTime>09/30/2019 09:57:56</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>09/30/2019 08:38:42</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Server.dll">
+      <publishTime>09/30/2019 10:01:10</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>09/30/2019 09:49:42</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>05/15/2018 13:29:34</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>04/17/2019 16:24:34</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>09/18/2018 19:38:10</publishTime>
+    </File>
+    <File Include="bin/WebAPI.dll">
+      <publishTime>12/10/2019 09:04:56</publishTime>
+    </File>
+    <File Include="bin/WebAPI.pdb">
+      <publishTime>12/10/2019 09:04:56</publishTime>
+    </File>
+    <File Include="bin/WebAPI.ServiceInterface.dll">
+      <publishTime>12/10/2019 09:04:56</publishTime>
+    </File>
+    <File Include="bin/WebAPI.ServiceInterface.pdb">
+      <publishTime>12/10/2019 09:04:56</publishTime>
+    </File>
+    <File Include="bin/WebAPI.ServiceModel.dll">
+      <publishTime>12/10/2019 09:04:56</publishTime>
+    </File>
+    <File Include="bin/WebAPI.ServiceModel.pdb">
+      <publishTime>12/10/2019 09:04:56</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/28/2019 13:11:45</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/28/2019 13:12:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/28/2019 16:33:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

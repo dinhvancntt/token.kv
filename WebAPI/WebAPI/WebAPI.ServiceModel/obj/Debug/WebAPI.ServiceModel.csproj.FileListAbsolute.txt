@@ -1,0 +1,9 @@
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\bin\Debug\WebAPI.ServiceModel.dll
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\bin\Debug\WebAPI.ServiceModel.pdb
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\obj\Debug\WebAPI.ServiceModel.csprojAssemblyReference.cache
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\obj\Debug\WebAPI.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\obj\Debug\WebAPI.ServiceModel.csproj.CopyComplete
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\obj\Debug\WebAPI.ServiceModel.dll
+D:\Projects\KV2FA\WebAPI\WebAPI\WebAPI.ServiceModel\obj\Debug\WebAPI.ServiceModel.pdb

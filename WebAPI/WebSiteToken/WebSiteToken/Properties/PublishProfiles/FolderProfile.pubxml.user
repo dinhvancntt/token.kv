@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\KV2FA\WebAPI\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Client.dll">
+      <publishTime>01/13/2020 09:37:48</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>01/13/2020 09:37:50</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.dll">
+      <publishTime>01/13/2020 09:37:58</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>01/13/2020 09:37:46</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.dll">
+      <publishTime>01/13/2020 08:21:18</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Razor.dll">
+      <publishTime>01/13/2020 09:39:08</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>01/13/2020 08:47:18</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Server.dll">
+      <publishTime>01/13/2020 09:38:08</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>01/13/2020 08:18:38</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>05/15/2018 13:29:34</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>04/17/2019 16:24:34</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>09/18/2018 19:38:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/28/2018 13:00:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/WebSiteToken.dll">
+      <publishTime>02/10/2020 16:34:27</publishTime>
+    </File>
+    <File Include="bin/WebSiteToken.pdb">
+      <publishTime>02/10/2020 16:34:27</publishTime>
+    </File>
+    <File Include="bin/WebSiteToken.ServiceInterface.dll">
+      <publishTime>02/10/2020 16:34:27</publishTime>
+    </File>
+    <File Include="bin/WebSiteToken.ServiceInterface.pdb">
+      <publishTime>02/10/2020 16:34:27</publishTime>
+    </File>
+    <File Include="bin/WebSiteToken.ServiceModel.dll">
+      <publishTime>02/10/2020 16:34:27</publishTime>
+    </File>
+    <File Include="bin/WebSiteToken.ServiceModel.pdb">
+      <publishTime>02/10/2020 16:34:27</publishTime>
+    </File>
+    <File Include="css/app.css">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="default.cshtml">
+      <publishTime>02/10/2020 16:25:07</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="gulpfile.js">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="js/app.js">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="js/hello/controllers.js">
+      <publishTime>02/10/2020 15:18:59</publishTime>
+    </File>
+    <File Include="js/navigation/controllers.js">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="package.json">
+      <publishTime>02/10/2020 14:10:35</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/10/2020 14:10:15</publishTime>
+    </File>
+    <File Include="partials/404.html">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="partials/hello/hello.html">
+      <publishTime>02/10/2020 16:32:14</publishTime>
+    </File>
+    <File Include="partials/partial1.html">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="partials/partial2.html">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="tests/karma.conf.js">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="tests/unit/controllerSpec.js">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/10/2020 16:34:27</publishTime>
+    </File>
+    <File Include="wwwroot_build/00-install-dependencies.bat">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="wwwroot_build/deploy/appsettings.txt">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="wwwroot_build/package-and-deploy.bat">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="wwwroot_build/publish/config.json">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+    <File Include="wwwroot_build/README.txt">
+      <publishTime>02/10/2020 14:09:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

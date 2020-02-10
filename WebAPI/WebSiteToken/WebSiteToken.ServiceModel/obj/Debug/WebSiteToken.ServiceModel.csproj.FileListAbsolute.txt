@@ -1,0 +1,8 @@
+D:\Projects\KV2FA\WebAPI\WebSiteToken\WebSiteToken.ServiceModel\bin\Debug\WebSiteToken.ServiceModel.dll
+D:\Projects\KV2FA\WebAPI\WebSiteToken\WebSiteToken.ServiceModel\bin\Debug\WebSiteToken.ServiceModel.pdb
+D:\Projects\KV2FA\WebAPI\WebSiteToken\WebSiteToken.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\Projects\KV2FA\WebAPI\WebSiteToken\WebSiteToken.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+D:\Projects\KV2FA\WebAPI\WebSiteToken\WebSiteToken.ServiceModel\obj\Debug\WebSiteToken.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Projects\KV2FA\WebAPI\WebSiteToken\WebSiteToken.ServiceModel\obj\Debug\WebSiteToken.ServiceModel.csproj.CopyComplete
+D:\Projects\KV2FA\WebAPI\WebSiteToken\WebSiteToken.ServiceModel\obj\Debug\WebSiteToken.ServiceModel.dll
+D:\Projects\KV2FA\WebAPI\WebSiteToken\WebSiteToken.ServiceModel\obj\Debug\WebSiteToken.ServiceModel.pdb

@@ -1,0 +1,6 @@
+{
+	"iisApp": "WebSiteToken",
+	"serverAddress": "deploy-server.example.com",
+	"userName": "{WebDeployUserName}",
+	"password" : "{WebDeployPassword}"
+}
